@@ -7,3 +7,4 @@ Luckily, ReQ is here as the solution for your confusion.
 We provide quizzes, powered by EXCO, to analyze your needs based on your personality and tendency of choices.
 There is also a mini game provided, which is Hangman to increase your knowledge.
 We hope that users can find their perfect choice based on our recommendation.
+
